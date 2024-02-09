@@ -5,6 +5,11 @@ With over 5 years of experience in the field. I've had the opportunity to work w
 
 ### 🚀 Expertise
 
+I am a technology enthusiast, particularly in the field of Software Quality, where I can view various projects from different angles and learn about several new technologies. I specialize in Quality Engineering. For the past 5 years, I have been studying and improving my skills in this area, always focusing on the quality of the projects I am involved in. I evaluate new frameworks and technologies to achieve my objectives, always seeking new tools and concepts to help solve problems. I have contributed to creating guidelines for the QA team in my previous roles.
+
+Throughout my professional journey, I have been implementing functional tests using techniques such as experience-based testing, risk-based testing, source code and business rules testing, laying the groundwork for test strategy development. I strive to share knowledge about software quality with the DevTeam, aiming to be a reference on the subject. Working with Agile and Scrum, aiming able to bring continuous improvement to the quality in this process.
+
+Regarding test automation, I am always working on new projects in layers such as API, UI, Performance, and End-to-End testing. I constantly analyze contexts and evaluate and decide which frameworks to use and which concepts to employ based on the chosen framework.
 
 
 ### 💻 Tech Stack 
